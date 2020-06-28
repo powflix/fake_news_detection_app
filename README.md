@@ -6,7 +6,7 @@ Fake News Detection App use Artificial Intelligence to predict whether a given n
 
 ## About
 
-Fake News Detection App was created by [Pankaj Dubey](https://github.com/pankajdubeyjava), [Samarth Agarwal](https://github.com/) & [Mukesh Bharti](https://github.com/mukesh123456789) but is now actively developed and maintained by a team of developers at Powflix.
+Fake News Detection App was created by [Pankaj Dubey](https://github.com/pankajdubeyjava), [Samarth Agarwal](https://github.com/sam1414) & [Mukesh Bharti](https://github.com/mukesh123456789) but is now actively developed and maintained by a team of developers at Powflix.
 
 ## Code of Conduct
 
