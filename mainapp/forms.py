@@ -1,5 +1,6 @@
 from django import forms
 
 
-class url_form(forms.Form):
-    news_url = forms.URLField(label='News url', max_length=500)
+class news_form(forms.Form):
+    heading = forms.CharField(label='heading')
+    content = forms.CharField(label='content')
